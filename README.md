@@ -16,7 +16,7 @@ pkg install python wget -y && wget https://raw.githubusercontent.com/sachin-hack
 </a>  
 <br>  
 
-<a href="https://t.me/ZeroHackNexus">
+<a href="https://t.me/sachin_maurya_903">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>  
 <br>  
